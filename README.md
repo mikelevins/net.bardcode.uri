@@ -1,9 +1,8 @@
 # net.bardcode.uri
-### _Your Name <your.name@example.com>_
+### _mikel evins <mikel@evins.net>_
 
-This is a project to do ... something.
+net.bardcode.uri contains a few simple utilities for working with URIs and the quri library. I found myself rewriting these a few times, and so pulled them out into a library I could load.
 
 ## License
 
-Specify license here
-
+Apache 2.0
